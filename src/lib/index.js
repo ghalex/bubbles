@@ -1,2 +1,2 @@
-import App from './App';
-export default App;
+import Bubbles from "./Bubbles";
+export default Bubbles;

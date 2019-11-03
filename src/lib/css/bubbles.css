@@ -1,0 +1,16 @@
+.bubbles-container {
+  /* overflow: hidden; */
+  height: 480px;
+}
+
+.bubbles {
+  position: relative;
+}
+
+.bubble {
+  position: absolute;
+  width: 152px;
+  height: 152px;
+  border-radius: 50%;
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1), 0 3px 10px rgba(0, 0, 0, 0.1);
+}

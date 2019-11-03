@@ -1,0 +1,113 @@
+body {
+  color: black;
+}
+
+.bubble-bg {
+  background-image: url(http://localhost:3000/logos-sprite.jpg);
+  background-size: 1076px 1076px;
+}
+
+.bubble-logo1 {
+  background-position: 0 0;
+}
+
+.bubble-logo2 {
+  background-position: -154px 0;
+}
+.bubble-logo3 {
+  background-position: -308px 0;
+  border: 8px solid white;
+}
+.bubble-logo4 {
+  background-position: -462px 0;
+}
+.bubble-logo11 {
+  background-position: -616px 0;
+}
+.bubble-logo6 {
+  background-position: -770px 0;
+  border: 8px solid white;
+}
+.bubble-logo7 {
+  background-position: -924px 0;
+}
+.bubble-logo8 {
+  background-position: 0 -154px;
+}
+.bubble-logo9 {
+  background-position: -154px -154px;
+  border: 8px solid white;
+}
+.bubble-logo10 {
+  background-position: -308px -154px;
+}
+.bubble-logo5 {
+  background-position: -462px -154px;
+  border: 8px solid white;
+}
+.bubble-logo13 {
+  background-position: -616px -154px;
+}
+.bubble-logo12 {
+  background-position: -770px -154px;
+}
+.bubble-logo14 {
+  background-position: -924px -154px;
+}
+.bubble-logo15 {
+  background-position: 0 -308px;
+}
+.bubble-logo16 {
+  background-position: -154px -308px;
+}
+.bubble-logo17 {
+  background-position: -308px -308px;
+}
+.bubble-logo18 {
+  background-position: -462px -308px;
+}
+.bubble-logo19 {
+  background-position: -616px -308px;
+}
+.bubble-logo20 {
+  background-position: -770px -308px;
+}
+.bubble-logo21 {
+  background-position: -924px -308px;
+}
+.bubble-logo22 {
+  background-position: 0 -462px;
+}
+.bubble-logo23 {
+  background-position: -154px -462px;
+}
+.bubble-logo24 {
+  background-position: -308px -462px;
+}
+.bubble-logo25 {
+  background-position: -462px -462px;
+}
+.bubble-logo26 {
+  background-position: -616px -462px;
+}
+.bubble-logo27 {
+  background-position: -770px -462px;
+}
+.bubble-logo28 {
+  background-position: -924px -462px;
+}
+.bubble-logo29 {
+  background-position: 0 -616px;
+}
+.bubble-logo30 {
+  background-position: -154px -616px;
+}
+.bubble-logo31 {
+  background-position: -308px -616px;
+}
+.bubble-logo32 {
+  background-position: -462px -616px;
+}
+.bubble-logo33 {
+  background-position: -616px -616px;
+}
