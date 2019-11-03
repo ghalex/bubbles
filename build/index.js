@@ -1,6 +1,10 @@
 /*!
  * 
+<<<<<<< HEAD
  *   @ghalex/bubbles v1.0.0
+=======
+ *   @hodgef/js-library-boilerplate v2.1.13
+>>>>>>> 3638c8031cc12eab60eb039e130aa868ef76cb8e
  *   https://github.com/hodgef/js-library-boilerplate
  * 
  *   Copyright (c) Francisco Hodge (https://github.com/hodgef)
