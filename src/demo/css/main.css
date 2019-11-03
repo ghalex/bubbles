@@ -3,7 +3,7 @@ body {
 }
 
 .bubble-bg {
-  background-image: url(http://localhost:3000/logos-sprite.jpg);
+  background-image: url(/demo/logos-sprite.jpg);
   background-size: 1076px 1076px;
 }
 
