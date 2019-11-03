@@ -11,7 +11,8 @@
     "coverage": "node scripts/test.js --coverage --watchAll=false",
     "postinstall": "node bin/postinstall",
     "prepare": "npm run build",
-    "trypublish": "npm publish || true"
+    "trypublish": "npm publish || true",
+    "deploy": "npm run demo && git subtree push --prefix demo origin gh-pages"
   },
   "repository": {
     "type": "git",
