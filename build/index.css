@@ -1,13 +1,9 @@
 /*!
  * 
-<<<<<<< HEAD
  *   @ghalex/bubbles v1.0.0
-=======
- *   @hodgef/js-library-boilerplate v2.1.13
->>>>>>> 3638c8031cc12eab60eb039e130aa868ef76cb8e
- *   https://github.com/hodgef/js-library-boilerplate
+ *   https://github.com/ghalex/bubbles.git
  * 
- *   Copyright (c) Francisco Hodge (https://github.com/hodgef)
+ *   Copyright (c) Ghiura Alexandru 
  * 
  *   This source code is licensed under the MIT license found in the
  *   LICENSE file in the root directory of this source tree.
