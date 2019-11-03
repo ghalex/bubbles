@@ -1,5 +1,5 @@
-import App from './../App';
+import Bubbles from "./../Bubbles";
 
-it('renders without crashing', () => {
-  new App();
+it("renders without crashing", () => {
+  new Bubbles([]);
 });
