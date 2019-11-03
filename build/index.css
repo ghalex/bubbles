@@ -1,6 +1,6 @@
 /*!
  * 
- *   @ghalex/bubbles v1.0.1
+ *   @ghalex/bubbles v1.0.2
  *   https://github.com/ghalex/bubbles.git
  * 
  *   Copyright (c) Ghiura Alexandru 
